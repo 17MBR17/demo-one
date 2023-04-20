@@ -2,3 +2,5 @@
 Example of GH repo starting on remote side with new branch name
 
 Updated file
+
+Another update
